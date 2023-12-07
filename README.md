@@ -35,4 +35,4 @@ To run this tool, follow these steps:
 Contributions are welcome to improve this tool, such as adding support for different search engines, optimizing performance, or enhancing user experience.
 
 ## License
-This project is licensed under [specify the license type here].
+Free To Use.
